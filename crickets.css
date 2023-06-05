@@ -1,0 +1,91 @@
+h3{
+    background-color: orange;
+    color: darkblue;
+    font-weight: 900;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: rgb(228, 231, 8);
+}
+h1{
+    background-color: rgb(95, 209, 28);
+    text-align: center;
+    text-overflow: clip;
+}
+.c1{
+    width: 400px;
+    height: 200px;
+    border: 1px solid #000;
+    margin-top: 50px;
+    position: relative;
+    background-image: url(jaddu.jpg);
+    background-repeat: no-repeat;
+    background-position: 10px 50px;
+    background-position: center bottom;
+    
+}
+.c1 h3{
+    position: absolute;
+    top: 150px;
+    right: 10px;
+
+}
+.c1 h4{
+    position: absolute;
+    top: 40px;
+    right: 200px;
+}
+.b1{
+    position: fixed;
+    top: 100px;
+    right:100px;
+    background-color: brown;
+    color: antiquewhite;
+    border: 5px solid black;
+    
+
+}
+.b1:hover{
+    color: yellow;
+    background-color: black;
+}
+#navbar{
+    background-color: #000;
+}
+
+#navbar ul{
+    padding: 0;
+    list-style: none;
+}
+#navbar li{
+    display: inline;
+}
+#navbar a{
+    color: rgb(238, 234, 234);
+    text-decoration: none;
+    font-size: 18px;
+    padding-right: 75px;
+}
+#heading h3{
+    color: rgba(243, 200, 8, 0.979);
+    text-align: center;
+    width: 900px;
+    font-size: xx-large;
+
+}
+#heading{
+    background-color: rgb(3, 8, 34);
+    background-image: url('msd3.jpg');
+   min-height:  250px;
+    text-align: center;
+    margin-bottom: 30px;
+    background-position: auto;
+    
+}
+footer{
+    background-color: #000;
+    color: greenyellow;
+    text-align: center;
+    padding: 3px;
+}

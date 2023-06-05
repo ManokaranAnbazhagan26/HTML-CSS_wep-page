@@ -1,0 +1,19 @@
+h1{
+    color: red;
+    font-style: italic;
+    background-color: orange;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.a1{
+    color: blue;
+    font-weight: 700;
+    border: 1px solid black;
+    
+}
+
+
+aside{
+
+    color: rgb(21, 216, 3);
+
+}
